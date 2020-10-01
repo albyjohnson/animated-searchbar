@@ -1,7 +1,7 @@
 body{
     margin:0;
     padding:0;
-    background-color: #00FF00;
+    background-color: #4B0082;
     height:100vh;
     display:flex;
     justify-content: center;
@@ -9,7 +9,7 @@ body{
   }
 
   .search-container{ 
-      background: #ffffff;
+      background: #D8BFD8;
       height: 30px;
       border-radius: 30px;
       padding: 10px 20px;
